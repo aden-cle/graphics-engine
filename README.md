@@ -15,7 +15,7 @@ A 2D graphics engine featuring clipping, polygon and bezier curve support, circl
 *   **Mesh Rendering:**  Draws arbitrary triangle meshes with optional per-vertex colors and texture coordinates.
 
 ## Installation
-1.  **Clone the repository:** `git clone <repository_url>`
+1.  **Clone the repository:** `git clone https://github.com/aden-cle/graphics-engine.git`
 
 ## Usage
 1. Edit the `GDrawSomething` function in `MyCanvas.cpp` by performing drawing operations (`drawPath`, `drawMesh`, etc.) on the provided canvas.
