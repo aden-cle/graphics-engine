@@ -31,7 +31,7 @@ A 2D graphics engine featuring clipping, polygon and bezier curve support, circl
 GColor red {1.0, 0.0, 0.0, 1.0};
 canvas->clear(red);
 
-// Create a circle w/ center at (100, 100) and radius 40
+// Create a circle with center at (100, 100) and radius 40
 GPath path;
 path = GPath();
 path.addCircle({100, 100}, 40, GPath::kCCW_Direction);
@@ -49,5 +49,3 @@ No specific configuration is required beyond compiling the code using the provid
 
 ## API Documentation
 Refer to the header files (`*.h`) for detailed function specifications and parameters.
-
-*README.md was made with [Etchr](https://etchr.dev)*
