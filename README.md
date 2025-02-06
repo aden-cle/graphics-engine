@@ -20,9 +20,9 @@ A 2D graphics engine featuring clipping, polygon and bezier curve support, circl
 ## Usage
 1. Edit the `GDrawSomething` function in `MyCanvas.cpp` by performing drawing operations (`drawPath`, `drawMesh`, etc.) on the provided canvas.
 
-2. **Compile:** Use the provided Makefile: `make`.
+2. **Compile:** Use the provided Makefile: `make`
 
-3. **Run:** `./image -e expected -v` to generate your drawing.
+3. **Run:** `./image` to generate your drawing.
 
 **Example:**
 
