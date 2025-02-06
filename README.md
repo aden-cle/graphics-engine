@@ -44,8 +44,5 @@ canvas->drawPath(path, green_paint);
 return "My title here"
 ```
 
-## Configuration
-No specific configuration is required beyond compiling the code using the provided Makefile.
-
 ## API Documentation
 Refer to the header files (`*.h`) for detailed function specifications and parameters.
